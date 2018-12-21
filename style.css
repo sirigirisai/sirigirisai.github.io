@@ -393,6 +393,12 @@ input[type=submit]{
 .footer h3{
     text-align: center;
 }
+footer .links{
+    height: 250px;
+    text-align: center;
+    color: white;
+    font-size: 80px;
+}
 
 
 
